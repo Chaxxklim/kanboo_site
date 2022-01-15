@@ -2,9 +2,8 @@
 
 ### Member
 
-|PL|TA|AA|DA|UA|
-|---|---|---|---|---|
 |안대근|윤주원|임태희|임창균|권영채|
+|---|---|---|---|---|
 |![pl](https://user-images.githubusercontent.com/84373490/149456465-69f1ac57-7e3a-4d9a-8738-9fbe4b8dc90f.jpg)|![ta](https://user-images.githubusercontent.com/84373490/149456467-972b20a3-c601-4b7b-851d-d548eef3aba2.jpg)|![aa](https://user-images.githubusercontent.com/84373490/149456460-68f74b32-3ff5-46d5-a08d-43798e2b26a7.jpg)|![da](https://user-images.githubusercontent.com/84373490/149474651-460466a0-7aed-4387-b06d-18c13efd0a6c.jpg)|![ua](https://user-images.githubusercontent.com/84373490/149456468-1d9d7751-fe77-423b-bc9e-ea173eddba7f.jpg)|
 
 ### Skill Stack
